@@ -1,0 +1,11 @@
+django
+psycopg2
+djangorestframework
+django-filter
+dj-rest-auth
+django-cors-headers
+drf-yasg
+setuptools
+django-private-storage
+mysqlclient
+django-browser-reload
